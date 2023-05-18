@@ -23,7 +23,6 @@ try {
 
     //Recipients
     $mail->setFrom('alyaskhudier01@gmail.com', 'Alyas Khudier');
-    //$mail->addAddress('3144896924@tmomail.net');
     $mail->addAddress('alyaskhudier01@gmail.com');     					//Add a recipient
                   
    
