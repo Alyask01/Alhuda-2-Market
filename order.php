@@ -41,14 +41,14 @@
     }
 ?>
 
-<section class="food-menu">
+<!-- <section class="food-menu">
         <div class="container">
             
             <h2 class="text-center">Fill out to add the item(s) to your cart</h2>
 
             <form action="" method="POST" class="order">
                 <fieldset>
-                    <legend>Selected Food</legend>
+                     <legend>Selected Food</legend>
 
                     <div class="food-order-img">
                         <?php 
@@ -70,7 +70,7 @@
                         
                         ?>
                         
-                    </div>
+                    </div> -->
 
     <!-- Food Search Section Starts Here -->
     <section class="food-search">

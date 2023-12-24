@@ -2,7 +2,7 @@
 
 
 
-    <!-- CAtegories Section Starts Here -->
+    <!-- Categories Section Starts Here -->
     <section class="categories">
         <div class="container">
             <h2 class="text-center">Explore Foods</h2>
@@ -48,7 +48,7 @@
                                     }
                                 ?>
 
-                                <h3 class="float-text text-white"><?php echo $title; ?></h3>
+                                <h3 class="float-text text-white"><?php echo $title; ?></h3> 
                             </div>
                             </a>
 

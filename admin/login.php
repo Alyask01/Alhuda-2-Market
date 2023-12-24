@@ -59,9 +59,10 @@
         //Process for Login
         //1. Get the data from login form (use echo do double check)
         //$username = $_POST['username'];
-        //$password = md5($_POST['password']);
-        $username = mysqli_real_escape_string($conn, $_POST['username']);
-        $raw_password = md5($_POST['password']);
+        $password = md5($_POST['password']);
+        // $username = mysqli_real_escape_string($conn, $_POST['username']);
+        // $raw_password = md5($_POST['password']);
+        $raw_password = ($_POST['password']);
         $password = mysqli_real_escape_string($conn, $raw_password);
 
         

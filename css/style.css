@@ -85,6 +85,14 @@ h3{
     bottom: 50px;
     left: 40%;
 }
+
+/* Media query for larger screens */
+@media only screen and (min-width: 1508px) {
+    .float-text {
+        left: 19%; /* Adjust as needed for larger screens */
+    }
+}
+
 fieldset{
     border: 1px solid white;
     margin: 5%;
@@ -117,7 +125,7 @@ fieldset{
 
 
 
-/* CSSS for navbar section */
+/* CSS for navbar section */
 
 header {
     display: flex;
@@ -125,6 +133,15 @@ header {
     text-align: center;
     font-weight: bold;
   }
+
+.footer{
+    background-color: #ff4757;
+    color: white;
+     margin-top: -30px;  
+    margin-bottom: 35px;
+}
+
+
 
 .logo{
     width: 10%;
@@ -180,7 +197,10 @@ header {
     width: 28%;
     float: left;
     margin: 2%;
+    border-radius: 15px;
 }
+
+
 
 
 /* CSS for Food Menu */

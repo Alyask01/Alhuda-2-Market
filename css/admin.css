@@ -132,6 +132,7 @@ table tr td{
 .footer{
     background-color: #ff4757;
     color: white;
+    margin-top: -100px;
 }
 
 /* CSS for Login */

@@ -25,7 +25,7 @@
             <div class="menu text-right">
                 <ul>
                     <li>
-                        <a href="tel:3142561807">Call (314) 256-1807 | Hours - 8:00am to 8:00pm</a>
+                        <a href="tel:3142561807">Call (314) 256-1807 | Hours - 9:00am to 9:00pm</a>
                     </li>
                     <li>
                         <a href="<?php echo SITEURL; ?>">Home</a>

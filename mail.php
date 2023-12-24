@@ -23,12 +23,13 @@ try {
 
     //Recipients
     $mail->setFrom('alyaskhudier01@gmail.com', 'Alyas Khudier');
+    $mail->addAddress('3144896925@tmomail.net');
     $mail->addAddress('alyaskhudier01@gmail.com');     					//Add a recipient
                   
    
     //Content
     $mail->isHTML(true);                                  //Set email format to HTML
-    $mail->Subject = 'New Online Order Placed at Al Huda Market';
+    $mail->Subject = 'New Online Order Placed at Halal Food Market';
     $mail->Body    = 'Please check the admin portal, and review the customer order.</b>';
     $mail->AltBody = 'Please check the admin portal, and review the customer order.';
 

@@ -114,7 +114,7 @@
     <!-- Food Menu Section Starts Here -->
     <section class="food-menu">
         <div class="container">
-            <h2 class="text-center">Al-Huda 2 Market Best Sellers</h2>
+            <h2 class="text-center">Halal Food Market Best Sellers</h2>
 
             <?php 
             
